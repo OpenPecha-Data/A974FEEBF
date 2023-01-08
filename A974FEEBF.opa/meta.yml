@@ -1,0 +1,19 @@
+id: A974FEEBF
+title: Short Windhorse Prayer to Gesar
+type: translation
+pechas:
+- IED7DBDD7
+- I445D4A5C
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:07:47.804977
+  last_modified_at: 2023-01-04 13:07:47.804987
+  collections:
+  - Mipham Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IED7DBDD7/D265: '6020'
+  I445D4A5C/4549: '6020'
